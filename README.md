@@ -1,6 +1,6 @@
-🎓 Estudante de Ciência da Computação no IBMR (7º período) — Rio de Janeiro, Brasil
+🎓 Computer Science student at IBMR (7th semester) — Rio de Janeiro, Brazil
 
-💻 Desenvolvedor Júnior
+💻 Junior C# Developer
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoguilhermegj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoguilhermgj@gmail.com)
