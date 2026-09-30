@@ -1,4 +1,4 @@
-🎓 Computer Science student at IBMR (7th semester) — Rio de Janeiro, Brazil
+🎓 Computer Science student at IBMR (7th/8th semester) — Rio de Janeiro, Brasil
 
 💻 Junior C# Developer
 
