@@ -1,6 +1,6 @@
 🎓 Estudante de Ciência da Computação no IBMR (7º período) — Rio de Janeiro, Brasil
 
-💻 Desenvolvedor Júnior C#
+💻 Desenvolvedor Júnior
 
 ---
 
