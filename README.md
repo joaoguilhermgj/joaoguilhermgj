@@ -2,8 +2,6 @@
 
 💻 Desenvolvedor Júnior C#
 
-🛡️ Concluí a trilha Junior Cybersecurity Analyst da Hack The Box Academy
-
 ---
 
 ## 🛠️ Tech Stack
@@ -33,12 +31,6 @@
 ![FFUF](https://img.shields.io/badge/FFUF-FF6B6B?style=for-the-badge&logo=f&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## 📌 Projeto em destaque
-
-🚗 **[VeiculoAPI](https://github.com/joaoguilhermgj/VeiculoAPI)** — API REST para gestão de veículos, com autenticação JWT, ASP.NET Core Identity e arquitetura em camadas (Domain, Application, Infrastructure)
 
 ---
 
