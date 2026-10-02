@@ -1,10 +1,11 @@
-🎓 7th-semester Computer Science student at IBMR, based in Rio de Janeiro, Brazil
+🎓 Estudante de Ciência da Computação no IBMR (7º período, formatura em 2027) - Rio de Janeiro, Brasil
 
-🔎 My journey began on the security side, where I earned the Junior Cybersecurity Analyst path on Hack The Box Academy
+💼 Vim da área de segurança da informação e hoje atuo como Desenvolvedor Júnior C#
 
-🔧 From there I found my footing in software development and now work as a Junior C# Developer
 
-📡 These days I'm focused on shipping solid .NET APIs, without losing touch with the security fundamentals I started with
+
+    
+
 
 ---
 
