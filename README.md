@@ -1,6 +1,6 @@
 🎓 Estudante de Ciência da Computação no IBMR (7º período, formatura em 2027) - Rio de Janeiro, Brasil
 
-💼 Vim da área de segurança da informação e hoje atuo como Desenvolvedor Júnior C#
+💼 Desenvolvedor Júnior C#
 
 
 
