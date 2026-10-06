@@ -1,4 +1,4 @@
-🎓 Estudante de Ciência da Computação no IBMR (7º período, formatura em 2027) - Rio de Janeiro, Brasil
+🎓 Estudante de Ciência da Computação no IBMR (7º/8º período) - Rio de Janeiro, Brasil
 
 💼 Desenvolvedor Júnior C#
 
