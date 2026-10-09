@@ -1,9 +1,3 @@
-🎓 Estudante de Ciência da Computação no IBMR (7º/8º período) - Rio de Janeiro, Brasil
-
-💼 Desenvolvedor Júnior C#
-
----
-
 ## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
